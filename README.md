@@ -18,11 +18,6 @@ This project was created as part of my Flutter learning journey to practice:
 - Layout management using `Column`, `Row`, and `Divider`  
 - Basic app structure in Flutter
 
---- 
-
-## 🖼️ Screenshot  
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 🧩 Technologies Used  
